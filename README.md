@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a second-year of technical school student.
+I'm interested in Web and Blockchain.
 
 【Skills】<br>
 Web Application Development
