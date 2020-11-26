@@ -1,23 +1,22 @@
 ### Hi there 👋
 
-【Skills】
-
+【Skills】<br>
 Web Application Development
-・TypeScript
-・React
-・GraphQL
-・Go
+- TypeScript
+- React
+- GraphQL
+- Go
 
 Blockchain Development (Studying)
-・Go
+- Go
 
 System Development
-・Java
-・JavaFX
+- Java
+- JavaFX
 
 Others
-・MySQL
-・Linux
+- MySQL
+- Linux
 
 ---
 
