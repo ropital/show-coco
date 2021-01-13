@@ -5,12 +5,12 @@ I'm interested in Web and Blockchain.
 【Skills】<br>
 Web Application Development
 - TypeScript
-- React
 - GraphQL
-- Go
+- React.js
+- Next.js
+- Nest.js
 
-Blockchain Development (Studying)
-- Go
+Blockchain (Studying)
 
 System Development
 - Java
