@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a second-year of technical school student.
+I'm a new graduate software engineer.
 I'm interested in Web and Blockchain.
 
 [My Engineering Wiki](https://www.notion.so/Ropi-Engineering-Wiki-37024e20c81647d8a7f91587e1fdacf8)
@@ -7,18 +7,22 @@ I'm interested in Web and Blockchain.
 【Skills】<br>
 Web Application Development
 - TypeScript
-- GraphQL
-- React.js
-- Next.js
-- Nest.js
+- GraphQL (Apollo)
+- React.js (Next.js)
+- Node.js (Express, Next.js)
+- Golang
 
-Blockchain (Studying)
+Blockchain
+- Solidity
 
 System Development
 - Java
 - JavaFX
 
-Others
+Infrastructure
+- AWS EKS,RDS,ECR,EC2,VPC,Cloud Watch etc.
+- Docker
+- Kubernetes
 - MySQL
 - Linux
 
