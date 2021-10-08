@@ -20,7 +20,7 @@ System Development
 - JavaFX
 
 Infrastructure
-- AWS EKS,RDS,ECR,EC2,VPC,Cloud Watch etc.
+- AWS EKS, RDS, ECR, EC2, VPC, Cloud Watch, Cloud Formation etc.
 - Docker
 - Kubernetes
 - MySQL
