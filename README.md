@@ -9,7 +9,7 @@ Web Application Development
 - TypeScript
 - GraphQL (Apollo)
 - React.js (Next.js)
-- Node.js (Express, Next.js)
+- Node.js (Express, Nest.js)
 - Golang
 
 Blockchain
