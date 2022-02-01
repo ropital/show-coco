@@ -2,7 +2,7 @@
 I'm a new graduate software engineer.
 I'm interested in Web and Blockchain.
 
-[My Engineering Wiki](https://www.notion.so/Ropi-Engineering-Wiki-37024e20c81647d8a7f91587e1fdacf8)
+[My Engineering Wiki](https://encouraging-cut-b5c.notion.site/s-Book-37024e20c81647d8a7f91587e1fdacf8)
 
 【Skills】<br>
 Web Application Development
