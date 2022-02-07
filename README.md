@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a new graduate software engineer.
-I'm interested in Web and Blockchain.
+I'm a web2 & web3 software engineer.
 
 [My Engineering Wiki](https://encouraging-cut-b5c.notion.site/s-Book-37024e20c81647d8a7f91587e1fdacf8)
 
@@ -10,7 +9,7 @@ Web Application Development
 - GraphQL (Apollo)
 - React.js (Next.js)
 - Node.js (Express, Nest.js)
-- Golang
+- Go
 
 Blockchain
 - Solidity
