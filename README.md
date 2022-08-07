@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a web2 & web3 software engineer.
 
-[My Engineering Wiki](https://encouraging-cut-b5c.notion.site/s-Book-37024e20c81647d8a7f91587e1fdacf8)
+[My Engineering Wiki](https://www.notion.so/crypto-coco/Wikipedia-0c1afb4154e5433ab93659ba0b855856)
 
 【Skills】<br>
 Web Application Development
