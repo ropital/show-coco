@@ -1,7 +1,11 @@
 ### Hi there 👋
 I'm a web2 & web3 software engineer.
 
-[My Engineering Wiki](https://www.notion.so/crypto-coco/Wikipedia-0c1afb4154e5433ab93659ba0b855856)
+【Career】
+- Develop video streaming service
+- Develop blockchain as a service
+- Develop NFTs
+- Develop NFT Marketplaces powered by Seaport Protocol, Wyvern Protocol
 
 【Skills】<br>
 Web Application Development
