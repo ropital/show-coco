@@ -5,8 +5,8 @@ I'm a web2 & web3 software engineer.
 - Develop blockchain certification service
 - Develop video streaming service
 - Develop blockchain as a service
-- Develop NFTs
 - Develop NFT Marketplaces powered by Seaport Protocol, Wyvern Protocol
+- **CEO at Blockchain Company ← Now**
 
 【Skills】<br>
 Web Application Development
