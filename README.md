@@ -2,6 +2,7 @@
 I'm a web2 & web3 software engineer.
 
 【Career】
+- Develop blockchain certification service
 - Develop video streaming service
 - Develop blockchain as a service
 - Develop NFTs
